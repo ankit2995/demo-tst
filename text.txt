@@ -2,4 +2,12 @@ Master-C1
 Matser-C2
 Branch-B1
 
+<<<<<<< HEAD
 Master-C3
+=======
+
+Master-C3
+
+Branch-B1
+
+>>>>>>> 03a503c (B1)
